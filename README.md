@@ -14,6 +14,7 @@ Many open source resources show AWS examples, but could be implemented on GCP or
 ### General
 - Serverless Library --> https://github.com/serverless/serverless
 - Open FaaS --> https://github.com/openfaas/faas
+- KServe for serverless ML model serving --> https://github.com/kserve/kserve
 
 ### For AWS
 - AWS Serverless Workshops --> https://github.com/aws-samples/aws-serverless-workshops

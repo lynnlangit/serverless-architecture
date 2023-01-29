@@ -3,9 +3,9 @@
 Companion to my Linked In Learning 'Serverless Architecture' course
 
 ## Key Information
-- Learning Serverless Architecture and Patterns  
-- Companion Repo for my LI_L course "Serverless Architecture"
-- Link at https://www.linkedin.com/learning/serverless-architecture
+Here is info for learning Serverless Architecture and Patterns. This is acCompanion Repo for my LI_L course "Serverless Architecture"
+- Course Link at https://www.linkedin.com/learning/serverless-architecture
+- Big link list 'Awesome Serverless' at https://github.com/anaibol/awesome-serverless
 
 ## Open Source Frameworks and Tools
 - AWS Serverless Workshops --> https://github.com/aws-samples/aws-serverless-workshops

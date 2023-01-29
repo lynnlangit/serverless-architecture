@@ -9,3 +9,4 @@ Companion to my Linked In Learning 'Serverless Architecture' course
 
 ## Open Source Frameworks and Tools
 - Serverless Library --> https://github.com/serverless/serverless
+- Zappa, serverless Python library for AWS --> https://github.com/zappa/Zappa

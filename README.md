@@ -9,4 +9,5 @@ Companion to my Linked In Learning 'Serverless Architecture' course
 
 ## Open Source Frameworks and Tools
 - Serverless Library --> https://github.com/serverless/serverless
-- Zappa, serverless Python library for AWS --> https://github.com/zappa/Zappa
+- Zappa, Serverless Python library for AWS --> https://github.com/zappa/Zappa
+- AWS CDK Serverless Patterns Library --> https://github.com/cdk-patterns/serverless

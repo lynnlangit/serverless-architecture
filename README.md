@@ -17,6 +17,7 @@ Many open source resources show AWS examples, but could be implemented on GCP or
 - KServe for serverless ML model serving --> https://github.com/kserve/kserve
 
 ### For AWS
+- AWS well-architected serverless application lens --> https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html
 - AWS Serverless Workshops --> https://github.com/aws-samples/aws-serverless-workshops
 - Serverless examples (using AWS) --> https://github.com/serverless/examples
 - AWS Serverless patterns --> https://github.com/aws-samples/serverless-patterns

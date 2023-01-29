@@ -8,9 +8,17 @@ Here is info for learning Serverless Architecture and Patterns. This is acCompan
 - Big link list 'Awesome Serverless' at https://github.com/anaibol/awesome-serverless
 
 ## Open Source Frameworks and Tools
+
+Many open source resources show AWS examples, but could be implemented on GCP or Azure with some modifications.  
+
+### General
+- Serverless Library --> https://github.com/serverless/serverless
+- Open FaaS --> https://github.com/openfaas/faas
+
+### For AWS
 - AWS Serverless Workshops --> https://github.com/aws-samples/aws-serverless-workshops
 - Serverless examples (using AWS) --> https://github.com/serverless/examples
-- Serverless Library --> https://github.com/serverless/serverless
+- AWS Serverless patterns --> https://github.com/aws-samples/serverless-patterns
 - Zappa, Serverless Python library for AWS --> https://github.com/zappa/Zappa
 - AWS CDK Serverless Patterns Library --> https://github.com/cdk-patterns/serverless
-- Open FaaS --> https://github.com/openfaas/faas
+

@@ -11,3 +11,4 @@ Companion to my Linked In Learning 'Serverless Architecture' course
 - Serverless Library --> https://github.com/serverless/serverless
 - Zappa, Serverless Python library for AWS --> https://github.com/zappa/Zappa
 - AWS CDK Serverless Patterns Library --> https://github.com/cdk-patterns/serverless
+- Open FaaS --> https://github.com/openfaas/faas

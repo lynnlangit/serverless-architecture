@@ -22,26 +22,27 @@ Many open source resources show AWS examples, but could be implemented on GCP or
 - Serverless Function Price Calculator -- http://serverlesscalc.com/
 - Quora Discussion - "Risks of Serverless Architectures" -- https://www.quora.com/What-are-some-criticisms-and-drawbacks-of-Serverless-Computing
 - ZDNet - "Top 10 Security Risks of Serverless Architectures" -- https://www.zdnet.com/article/the-top-10-risks-for-apps-on-serverless-architectures/
+- "Serverless Sea Change" --https://www.infoq.com/articles/serverless-sea-change#
+
+- "Event-driven serverless architecture" -- https://dachou.github.io/2018/10/15/event-driven-serverless.html
+- "Serverless Patterns" -- https://serverless.com/blog/serverless-architecture-code-patterns/ 
+- "Serverless Microservices" -- https://blog.algorithmia.com/introduction-to-serverless-microservices/
+- "Create a REST API with serverless components" -- https://serverless.com/blog/how-create-rest-api-serverless-components/ 
+- "AWS Lambda Internals" -- https://hackernoon.com/lambda-internals-exploring-aws-lambda-462f05f74076 & 
+
+
+- "A Production Grade CI/CD Pipeline for Serverless Applications" -- https://medium.com/@tarekbecker/a-production-grade-ci-cd-pipeline-for-serverless-applications-888668bcfe04 & 
+
+
+
 
 ----
 
-### For AWS Serverless Applications
 
-#### From AWS
-
-- AWS well-architected serverless application lens --> https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html
-- AWS Serverless Workshops --> https://github.com/aws-samples/aws-serverless-workshops
-- AWS Serverless patterns --> https://github.com/aws-samples/serverless-patterns
-
-#### From AWS Community
-- Serverless examples (using AWS) --> https://github.com/serverless/examples
-- Zappa, Serverless Python library for AWS --> https://github.com/zappa/Zappa
-- AWS CDK Serverless Patterns Library --> https://github.com/cdk-patterns/serverless
-- Blog: "CSIRO GT-Scan2 Serverless Genomics on AWS" -- https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/
-
-----
 
 ### For GCP
+
+- About Knative-- https://cloud.google.com/knative/ 
 
 ----
 

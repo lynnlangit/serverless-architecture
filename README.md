@@ -28,24 +28,28 @@ Many open source resources show AWS examples, but could be implemented on GCP or
 - "Serverless Patterns" -- https://serverless.com/blog/serverless-architecture-code-patterns/ 
 - "Serverless Microservices" -- https://blog.algorithmia.com/introduction-to-serverless-microservices/
 - "Create a REST API with serverless components" -- https://serverless.com/blog/how-create-rest-api-serverless-components/ 
-- "AWS Lambda Internals" -- https://hackernoon.com/lambda-internals-exploring-aws-lambda-462f05f74076 & 
 
+- "A Production Grade CI/CD Pipeline for Serverless Applications" -- https://medium.com/@tarekbecker/a-production-grade-ci-cd-pipeline-for-serverless-applications-888668bcfe04 
+- "Serverless & Modern Agile" -- https://www.youtube.com/watch?v=mzjhEZLTEpM 
+- "Architectural Patterns for IoT Event-Driven Architectures" -- https://medium.com/@prashunjaveri/architectural-patterns-for-iot-event-driven-architectures-557be35fa626  
 
-- "A Production Grade CI/CD Pipeline for Serverless Applications" -- https://medium.com/@tarekbecker/a-production-grade-ci-cd-pipeline-for-serverless-applications-888668bcfe04 & 
-
-
-
+- "Migrating to Cloud-Native Architectures" -- https://www.oreilly.com/library/view/migrating-to-cloud-native/9781492047605/
 
 ----
+### For AWS
 
-
+see dedicated page in the Repo --
 
 ### For GCP
 
+- "Build a Data Lake on GCP" -- https://cloud.google.com/solutions/build-a-data-lake-on-gcp 
+- "Serverless Analytics and Machine Learning with Google Cloud" -- https://www.leptonsoftware.com/2018/01/16/serverless-analytics-machine-learning-with-google-cloud
 - About Knative-- https://cloud.google.com/knative/ 
 
 ----
 
 ### For Azure
+
+- "Azure Compute Decision Tree" -- https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree 
 
 ----

@@ -2,7 +2,7 @@
 
 <img src="https://github.com/lynnlangit/serverless-architecture/blob/main/images/lambda-vs-vm.png" width=600>
 
-Companion to my Linked In Learning 'Serverless Architecture' course. Core concept (functions vs. VMs) shown above.
+Companion to my Linked In Learning `Serverless Architecture` course. Core concept (functions vs. VMs) shown above (image from AWS documentation).
 
 ## Key Information
 Here is info for learning Serverless Architecture and Patterns. This is my Companion Repo for my LI_L course "Serverless Architecture"

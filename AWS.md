@@ -1,5 +1,6 @@
 # AWS Serverless Applications
 
+AWS launched the entire serverless applications category, with the release of its [AWS Lambda (functions) service](https://en.wikipedia.org/wiki/AWS_Lambda) in 2014.  Modern AWS Serverless architectures now use a majority of serverless AWS services (for compute, file storage, data and much more.)  An example (for genomic data processing is shown above).
 
 ## From AWS
 

@@ -11,7 +11,7 @@ Here is info for learning Serverless Architecture and Patterns. This is my Compa
 
 ## Architecture / Patterns
 
-- 📝 Adrian Cockcorft on Cloud-Native, Serverless Computing at -- [link](https://www.linuxfoundation.org/blog/2018/02/adrian-cockcroft-convergence-cloud-native-computing-aws/)
+- 📝 Adrian Cockcroft on Cloud-Native, Serverless Computing at -- [link](https://www.linuxfoundation.org/blog/2018/02/adrian-cockcroft-convergence-cloud-native-computing-aws/)
 - 📝 Article: "Remaking the Australian Census for $ 500" at -- [link](https://www.news.com.au/technology/online/qut-students-design-a-500-cloudbased-census-server-four-times-better-than-ibms-9-million-system/news-story/0a4eeabf733cedfce0091ce6f062c60c)
 - 📝 Mike Roberts article on Serverless Architectures at -- [link]("https://martinfowler.com/articles/serverless.html")
 - 📝 DZone - "4 Use Cases of Serverless Architecture" at -- [link](https://dzone.com/articles/4-use-cases-of-serverless-architecture)
@@ -19,7 +19,7 @@ Here is info for learning Serverless Architecture and Patterns. This is my Compa
 - 📝 ZDNet - "Top 10 Security Risks of Serverless Architectures" at -- [link](https://www.zdnet.com/article/the-top-10-risks-for-apps-on-serverless-architectures/)
 - 📝 "Serverless Sea Change" at -- [link](https://www.infoq.com/articles/serverless-sea-change#)
 - 📝 "Event-driven serverless architecture" at -- [link](https://dachou.github.io/2018/10/15/event-driven-serverless.html)
-- 📝 "Serverless Patterns"at -- [link](https://serverless.com/blog/serverless-architecture-code-patterns/) 
+- 📝 "Serverless Patterns" at -- [link](https://serverless.com/blog/serverless-architecture-code-patterns/) 
 - 📝 "Serverless Microservices" at -- [link](https://blog.algorithmia.com/introduction-to-serverless-microservices/)
 - 📝 "Migrating to Cloud-Native Architectures" at -- [link](https://www.oreilly.com/library/view/migrating-to-cloud-native/9781492047605/)
 

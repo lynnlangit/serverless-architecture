@@ -1,6 +1,5 @@
 # AWS Serverless Applications
 
-<img src="https://github.com/lynnlangit/aws-for-bioinformatics/raw/main/5_Serverless_%26_ML-LYNN/1_Lambda/images/csiro_fig2_gtscan_arch_1.png">
 
 ## From AWS
 
@@ -15,13 +14,14 @@
 
 ## From AWS Community
 
+<img src="https://github.com/lynnlangit/aws-for-bioinformatics/raw/main/5_Serverless_%26_ML-LYNN/1_Lambda/images/csiro_fig2_gtscan_arch_1.png">
 
 ### Examples and Libraries
 - :octocat: Serverless examples (using AWS) -- [link](https://github.com/serverless/examples)
 - 📘 My Example:"HERE Technologies SAR"  -- [link](https://medium.com/@lynnlangit/aws-sar-here-geocode-application-208ca26e19c3)
 - 📘 My Example: "HERE Technologies Geocoder API and AWS" -- [link](https://medium.com/@lynnlangit/here-technologies-geocoder-api-aws-46b5647ce385)
 - 📙 Blog: "CSIRO GT-Scan2 Serverless Genomics on AWS" -- [link](https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/) 
-  - AWS architecture shown at the top of this page 
+  - AWS architecture shown at the top of this section 
 - 📙 Blog: "Faster Genome Search with X-Ray" -- [link](https://aws.amazon.com/blogs/publicsector/faster-genome-search-via-aws-x-ray/)
 - :octocat: Zappa, Serverless Python library for AWS --> [link](https://github.com/zappa/Zappa)
 - 📘 My Article: "Scaling Custom Machine Learning" -- [link](https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-d9dc7edfbff9)
@@ -35,6 +35,6 @@
 - 📝 Article: "What's New in AWS Lambda" -- [link](https://www.infoworld.com/article/3247407/aws-lambda/whats-new-in-aws-lambda-go-and-net-core-support.html)
 - 📝 Blog: "AWS Lambda Internals" -- [link](https://hackernoon.com/lambda-internals-exploring-aws-lambda-462f05f74076)
 - 📝 Article: "How Firecracker is Going to Set Modern Infrastructure on Fire" -- [link](https://thenewstack.io/how-firecracker-is-going-to-set-modern-infrastructure-on-fire/)
-- Slides: "Migrate your Data Warehouse to a Data Lake" -- [link](https://www.slideshare.net/AmazonWebServices/migrating-your-traditional-data-warehouse-to-a-modern-data-lake)
+- 📽️ Slides: "Migrate your Data Warehouse to a Data Lake" -- [link](https://www.slideshare.net/AmazonWebServices/migrating-your-traditional-data-warehouse-to-a-modern-data-lake)
 
 ----

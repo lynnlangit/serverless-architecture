@@ -6,7 +6,8 @@ Companion to my Linked In Learning 'Serverless Architecture' course. Core concep
 
 ## Key Information
 Here is info for learning Serverless Architecture and Patterns. This is my Companion Repo for my LI_L course "Serverless Architecture"
-- :books: My Course Link at -- [link](https://www.linkedin.com/learning/serverless-architecture)
+- :books: My Course Link at -- [link](https://www.linkedin.com/learning/serverless-architecture) 
+  - NOTE: Course will be updated in 2023.
 - :octocat: Big link list 'Awesome Serverless' at -- [link](https://github.com/anaibol/awesome-serverless)
 
 ## Architecture / Patterns

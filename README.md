@@ -38,27 +38,13 @@ Many open source resources show AWS examples, but could be implemented on GCP or
 
 ----
 
-### For AWS
+### For AWS, GCP or Azure
 
-see dedicated page in the Repo -- https://github.com/lynnlangit/serverless-architecture/blob/main/AWS.md
-
-----
-
-### For GCP
-
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-pipelines.png" width=900>
-
-Exmple architecture for genomics (bioinformatics data) shown above.  
-
-- "Build a Data Lake on GCP" -- https://cloud.google.com/solutions/build-a-data-lake-on-gcp 
-- "Serverless Analytics and Machine Learning with Google Cloud" -- https://www.leptonsoftware.com/2018/01/16/serverless-analytics-machine-learning-with-google-cloud
-- About Knative-- https://cloud.google.com/knative/ 
-- KServe for serverless ML model serving --> https://github.com/kserve/kserve
+- AWS: see dedicated page in the Repo -- https://github.com/lynnlangit/serverless-architecture/blob/main/AWS.md
+- GCP: see dedicated page in the Repo -- https://github.com/lynnlangit/serverless-architecture/blob/main/GCP.md
+- Azure: see dedicated page in the Repo -- https://github.com/lynnlangit/serverless-architecture/blob/main/Azure.md
 
 ----
 
-### For Azure
 
-- "Azure Compute Decision Tree" -- https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree 
 
-----

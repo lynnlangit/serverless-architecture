@@ -6,7 +6,7 @@ Serverless GCP architectures include interactive or batch data processing.  Also
 
 <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/gcp-funtctions-tools-test.png" widt=600>
 
-This example is for genomics (bioinformatics tool / library testing) with the ability scale out if needed for size of input data.
+This example is for genomics (bioinformatics tool / library testing) with the ability scale out if needed for size of input data.  More information [here](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/5_Serverless_Compute_with_Functions/4_Serverless_Workflows.md)
 
 ## Multiple Processing Types Architecture Example 
 

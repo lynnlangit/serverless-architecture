@@ -1,6 +1,8 @@
 # Azure Serverless Applications
 
-- Article: "Azure Compute Decision Tree" -- https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree 
+- 🌲 Article: "Azure Compute Decision Tree" at [link](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+- 📄 My Article: "Azure for Genomic-scale Workloads w/Azure Batch" at [link](https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b)
+- 📘 Example: "Serverless CI/CD on Azure" at [link](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cicd-for-containers) 
 
 ### Nextflow for Bioinformatics
 

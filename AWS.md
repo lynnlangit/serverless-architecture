@@ -1,5 +1,7 @@
 # AWS Serverless Applications
 
+<img src="https://github.com/lynnlangit/aws-for-bioinformatics/raw/main/5_Serverless_%26_ML-LYNN/1_Lambda/images/csiro_fig2_gtscan_arch_1.png">
+
 ## From AWS
 
 - Blog: "Cloud-Native Computing" -- https://aws.amazon.com/blogs/opensource/cloud-native-computing/
@@ -18,7 +20,8 @@
 - Serverless examples (using AWS) --> https://github.com/serverless/examples
 - Example:"HERE Technologies SAR"  -- https://medium.com/@lynnlangit/aws-sar-here-geocode-application-208ca26e19c3
 - Example: "HERE Technologies Geocoder API and AWS" -- https://medium.com/@lynnlangit/here-technologies-geocoder-api-aws-46b5647ce385
-- Blog: "CSIRO GT-Scan2 Serverless Genomics on AWS" -- https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/
+- Blog: "CSIRO GT-Scan2 Serverless Genomics on AWS" -- https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/ 
+  - AWS architecture shown at the top of this page 
 - Blog: "Faster Genome Search with X-Ray" -- https://aws.amazon.com/blogs/publicsector/faster-genome-search-via-aws-x-ray/
 - Zappa, Serverless Python library for AWS --> https://github.com/zappa/Zappa
 - "Scaling Custom Machine Learning" -- https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-d9dc7edfbff9

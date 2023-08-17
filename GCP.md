@@ -2,13 +2,18 @@
 
 Serverless GCP architectures include interactive or batch data processing.  Also it's common to include machine learning evaluation and processing. Data Lake architectures are generally used when data volumes are genomic-sized.  Below are examples and also links to more information about GCP libraries that are commonly used in this type of solution.
 
-## Scale Out Architecture Example
+## General GCP Serverless Architectures
+
+See section for Cloud Functions --> https://cloud.google.com/architecture/serverless-functions-blueprint
+See section for Cloud Run --> https://cloud.google.com/architecture/serverless-functions-blueprint
+
+## Scale Out Architecture Example for Bioinformatics
 
 <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/gcp-funtctions-tools-test.png" widt=600>
 
 This example is for genomics (bioinformatics tool / library testing) with the ability scale out if needed for size of input data.  More information [here](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/5_Serverless_Compute_with_Functions/4_Serverless_Workflows.md)
 
-## Multiple Processing Types Architecture Example 
+## Multiple Processing Types Architecture Example for Bioinformatics
 
 This example is for genomics (bioinformatics data) with multiple pipeline types and is shown below.  
 

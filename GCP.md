@@ -4,8 +4,8 @@ Serverless GCP architectures include interactive or batch data processing.  Also
 
 ## General GCP Serverless Architectures
 
-See section for Cloud Functions --> https://cloud.google.com/architecture/serverless-functions-blueprint
-See section for Cloud Run --> https://cloud.google.com/architecture/serverless-functions-blueprint
+- See section for **Cloud Functions** --> https://cloud.google.com/architecture/serverless-functions-blueprint
+- See section for **Cloud Run** --> https://cloud.google.com/architecture/serverless-functions-blueprint
 
 ## Scale Out Architecture Example for Bioinformatics
 

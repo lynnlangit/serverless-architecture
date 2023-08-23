@@ -19,7 +19,6 @@ Here is info for learning Serverless Architecture and Patterns. This is my Compa
 - 📝 "Serverless Sea Change" at -- [link](https://www.infoq.com/articles/serverless-sea-change#)
 - 📝 "Event-driven serverless architecture" at -- [link](https://dachou.github.io/2018/10/15/event-driven-serverless.html)
 - 📝 "Serverless Patterns" at -- [link](https://serverless.com/blog/serverless-architecture-code-patterns/) 
-- 📝 "Serverless Microservices" at -- [link](https://blog.algorithmia.com/introduction-to-serverless-microservices/)
 - 📝 "Migrating to Cloud-Native Architectures" at -- [link](https://www.oreilly.com/library/view/migrating-to-cloud-native/9781492047605/)
 
 ## Open Source Frameworks, Tools and Examples

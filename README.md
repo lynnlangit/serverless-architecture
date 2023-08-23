@@ -31,7 +31,6 @@ Many open source resources show AWS examples, but could be implemented on GCP or
 
 - :octocat: Serverless Library at -- [link](https://github.com/serverless/serverless)
 - :octocat: Open FaaS at -- [link](https://github.com/openfaas/faas)
-- 💵 Serverless Function Price Calculatorat -- [link](http://serverlesscalc.com/)
 - 📝 "Create a REST API with serverless components" at -- [link](https://serverless.com/blog/how-create-rest-api-serverless-components/)
 - 📝 "A Production Grade CI/CD Pipeline for Serverless Applications" at -- [link](https://medium.com/@tarekbecker/a-production-grade-ci-cd-pipeline-for-serverless-applications-888668bcfe04)
 - 📺 "Serverless & Modern Agile" at -- [link](https://www.youtube.com/watch?v=mzjhEZLTEpM)

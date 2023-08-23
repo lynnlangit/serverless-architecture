@@ -13,7 +13,7 @@ Here is info for learning Serverless Architecture and Patterns. This is my Compa
 
 ## Architecture / Patterns
 
-- 📝 Article: "Remaking the Australian Census for $ 500" at -- [link](https://www.news.com.au/technology/online/qut-students-design-a-500-cloudbased-census-server-four-times-better-than-ibms-9-million-system/news-story/0a4eeabf733cedfce0091ce6f062c60c)
+- 📝 Article: "Remaking the Australian Census for $500 USD" at -- [link](https://www.news.com.au/technology/online/qut-students-design-a-500-cloudbased-census-server-four-times-better-than-ibms-9-million-system/news-story/0a4eeabf733cedfce0091ce6f062c60c)
 - 📝 Mike Roberts article on Serverless Architectures at -- [link]("https://martinfowler.com/articles/serverless.html")
 - 📝 DZone - "4 Use Cases of Serverless Architecture" at -- [link](https://dzone.com/articles/4-use-cases-of-serverless-architecture)
 - 🗣️ Quora Discussion - "Risks of Serverless Architectures" at -- [link](https://www.quora.com/What-are-some-criticisms-and-drawbacks-of-Serverless-Computing)

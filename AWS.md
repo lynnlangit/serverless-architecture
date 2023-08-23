@@ -12,6 +12,10 @@ An example serverless AWS application architecture (for [genomic data processing
 - 📙 AWS Serverless Lens Whitepaper -- [link](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf)
 - :octocat: AWS Serverless Workshops -- [link](https://github.com/aws-samples/aws-serverless-workshops)
 - :octocat: AWS Serverless patterns -- [link](https://github.com/aws-samples/serverless-patterns)
+- 📙 AWS docs - links to serverless architectures by use case - [link](https://docs.aws.amazon.com/whitepapers/latest/optimizing-enterprise-economics-with-serverless/reference-architectures.html)
+
+### From AWS - About Data Lakes
+
 - 📙 "What is a Data Lake?" -- [link](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake)
 - 📙 "Data Lake Foundation on AWS" -- [link](https://aws.amazon.com/quickstart/architecture/data-lake-foundation-with-aws-services/)
 - 📙 "AWS Connected Vehicle Architecture" -- [link](https://docs.aws.amazon.com/solutions/latest/connected-vehicle-solution/architecture.html)

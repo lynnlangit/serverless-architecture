@@ -22,6 +22,8 @@ An example serverless AWS application architecture (for [genomic data processing
 
 ## From AWS Community
 
+Shown below is a solution architecture (for a bioinformatics use-case) which I worked on with the team (at CSIRO) to optimize.  
+
 <img src="https://github.com/lynnlangit/aws-for-bioinformatics/raw/main/5_Serverless_%26_ML-LYNN/1_Lambda/images/csiro_fig2_gtscan_arch_1.png">
 
 ### Examples and Libraries

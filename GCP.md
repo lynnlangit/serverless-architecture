@@ -2,7 +2,7 @@
 
 Serverless GCP architectures include interactive or batch data processing.  Also it's common to include machine learning evaluation and processing. Data Lake architectures are generally used when data volumes are genomic-sized.  Below are examples and also links to more information about GCP libraries that are commonly used in this type of solution.  
 
-Of course you can build a serverless website using any number of patterns.  I shown the three most common ones in the diagram below:
+Of course you can build a serverless website using any number of patterns.  I shown the three most common ones in the diagram below. I've also included other common GCP services used in web applications which provide management and/or automation capabilities.  
 
 <img src="https://github.com/lynnlangit/serverless-architecture/blob/main/images/gcp-serverless-web.png" width=800>
 

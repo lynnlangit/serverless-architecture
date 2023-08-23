@@ -13,7 +13,6 @@ Here is info for learning Serverless Architecture and Patterns. This is my Compa
 
 ## Architecture / Patterns
 
-- 📝 Adrian Cockcroft on Cloud-Native, Serverless Computing at -- [link](https://www.linuxfoundation.org/blog/2018/02/adrian-cockcroft-convergence-cloud-native-computing-aws/)
 - 📝 Article: "Remaking the Australian Census for $ 500" at -- [link](https://www.news.com.au/technology/online/qut-students-design-a-500-cloudbased-census-server-four-times-better-than-ibms-9-million-system/news-story/0a4eeabf733cedfce0091ce6f062c60c)
 - 📝 Mike Roberts article on Serverless Architectures at -- [link]("https://martinfowler.com/articles/serverless.html")
 - 📝 DZone - "4 Use Cases of Serverless Architecture" at -- [link](https://dzone.com/articles/4-use-cases-of-serverless-architecture)

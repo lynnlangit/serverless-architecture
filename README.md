@@ -15,7 +15,6 @@ Here is info for learning Serverless Architecture and Patterns. This is my Compa
 
 - 📝 Article: "Remaking the Australian Census for $500 USD" at -- [link](https://www.news.com.au/technology/online/qut-students-design-a-500-cloudbased-census-server-four-times-better-than-ibms-9-million-system/news-story/0a4eeabf733cedfce0091ce6f062c60c)
 - 📝 Mike Roberts article on Serverless Architectures at -- [link](https://martinfowler.com/articles/serverless.html)
-- 🗣️ Quora Discussion - "Risks of Serverless Architectures" at -- [link](https://www.quora.com/What-are-some-criticisms-and-drawbacks-of-Serverless-Computing)
 - 📝 ZDNet - "Top 10 Security Risks of Serverless Architectures" at -- [link](https://www.zdnet.com/article/the-top-10-risks-for-apps-on-serverless-architectures/)
 - 📝 "Serverless Sea Change" at -- [link](https://www.infoq.com/articles/serverless-sea-change#)
 - 📝 "Event-driven serverless architecture" at -- [link](https://dachou.github.io/2018/10/15/event-driven-serverless.html)

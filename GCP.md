@@ -10,6 +10,7 @@ Of course you can build a serverless website using any number of patterns.  I sh
 
 - See section for **Cloud Functions** --> https://cloud.google.com/architecture/serverless-functions-blueprint
 - See section for **Cloud Run** --> https://cloud.google.com/architecture/serverless-functions-blueprint
+- Filter by service/scenario from **Jump Start Solutions** --> https://cloud.google.com/architecture/all-jss-guides
 
 ## Scale Out Architecture Example for Bioinformatics
 

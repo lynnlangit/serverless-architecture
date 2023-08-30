@@ -9,7 +9,7 @@ An example serverless AWS application architecture (for [genomic data processing
 
 - 📙 Blog: "Cloud-Native Computing" -- [link](https://aws.amazon.com/blogs/opensource/cloud-native-computing/)
 - 📙 AWS well-architected serverless application lens -- [link](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html)
-- 📙 AWS Serverless Lens Whitepaper -- [link](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf)
+- 📙 AWS Serverless Lens Whitepaper -- [link](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html)
 - :octocat: AWS Serverless Workshops -- [link](https://github.com/aws-samples/aws-serverless-workshops)
 - :octocat: AWS Serverless patterns -- [link](https://github.com/aws-samples/serverless-patterns)
 - 📙 AWS docs - links to serverless architectures by use case - [link](https://docs.aws.amazon.com/whitepapers/latest/optimizing-enterprise-economics-with-serverless/reference-architectures.html)

@@ -4,7 +4,6 @@
 
 This Repo is a companion area to my LinkedIn Learning [`Serverless Architecture`](https://www.linkedin.com/learning/serverless-architecture) course.   
 - Serverless core concept (functions vs. VMs) is shown above (image from AWS documentation).
-- NOTE: ***I am currenlty revising and updating this course (update to be published in late 2023)***
 
 ## Course Information
 Here is info for learning Serverless Architecture and Patterns. This is my Companion Repo for my LI_L course "Serverless Architecture"
